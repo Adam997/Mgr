@@ -1,0 +1,10 @@
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\bin\Debug\Finger_Tapping_Test.exe.config
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\bin\Debug\Finger_Tapping_Test.exe
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\bin\Debug\Finger_Tapping_Test.pdb
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.csprojResolveAssemblyReference.cache
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.Form1.resources
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.Form2.resources
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.Properties.Resources.resources
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.csproj.GenerateResource.Cache
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.exe
+C:\Users\Patrycja\Desktop\Studia\A\MGR\Finger_Tapping_Test\Finger_Tapping_Test\obj\Debug\Finger_Tapping_Test.pdb
